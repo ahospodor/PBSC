@@ -1,0 +1,6 @@
+content   pbsc                 chrome/content/
+skin      pbsc   classic/1.0   chrome/skin/
+locale    pbsc   en-US         chrome/locale/en-US/
+
+
+overlay   chrome://browser/content/browser.xul   chrome://pbsc/content/ff-overlay.xul
